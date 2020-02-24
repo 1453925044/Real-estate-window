@@ -1,8 +1,8 @@
 # Real-estate-window
 
-# mobile
+> 
 
-## Build Setup
+## build setup
 
 
 # install dependencies
@@ -37,5 +37,6 @@ npm run build --report
 ├── .babelrc                        # babel-loader 配置
 ├── postcss.config.js               # postcss 配置
 └── package.json                    # package.json
+
 
 
