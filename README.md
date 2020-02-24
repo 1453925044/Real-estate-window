@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 # Real-estate-window
-=======
-<<<<<<< HEAD
-# Real-estate-window
-不动产专家论坛
-=======
-# mobile
 
-> 
+# mobile
 
 ## Build Setup
 
