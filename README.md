@@ -39,6 +39,3 @@ npm run build --report
 └── package.json                    # package.json
 
 
-
->>>>>>> 初始化
->>>>>>> 第一次提交
