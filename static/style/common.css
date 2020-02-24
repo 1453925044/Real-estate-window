@@ -1,0 +1,14 @@
+/* 元素渐显 */
+.hideToShow {
+    animation: hideToShow 0.5s ease-in-out;
+}
+
+@keyframes hideToShow {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
